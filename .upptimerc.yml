@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/aperta-principium/Interclip/main/img/interclip_logo.png
   name: Interclip status
   introTitle: "Want to check the uptime of **Interclip** and it's components? This is the place to do so."
-  introMessage: Below are the charts as well as the current status of Interclip's server components such as: our image proxy, our API, mobile app and downloads.
+  introMessage: "Below are the charts as well as the current status of Interclip's server components such as: our image proxy, our API, mobile app and downloads."
   navbar:
     - title: Status
       href: /
