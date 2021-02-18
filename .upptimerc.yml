@@ -10,6 +10,8 @@ sites:
     url: https://interclip.app/includes/api?url=https://www.linguee.com/english-german/translation/meanbusiness.html
   - name: Get API
     url: https://interclip.app/includes/get-api?code=tasks
+  - name: Image proxyy
+    url: https://interclip.app/proxy?url=https://trnck.dev/assets/img/logo.avif
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
