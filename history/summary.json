@@ -22,18 +22,20 @@
     "url": "https://interclip.app/includes/api?url=https://www.linguee.com/english-german/translation/meanbusiness.html",
     "icon": "https://favicons.githubusercontent.com/interclip.app",
     "slug": "set-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 84,
+    "timeDay": 82,
     "timeWeek": 87,
     "timeMonth": 87,
     "timeYear": 87,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-22": 0
+    }
   },
   {
     "name": "Get API",
