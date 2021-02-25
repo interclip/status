@@ -1,7 +1,7 @@
 url: https://interclip.app/includes/get-api?code=tasks
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-02-25T16:05:16.669Z
+status: up
+code: 200
+responseTime: 154
+lastUpdated: 2021-02-25T16:17:09.020Z
 startTime: Thu Feb 18 2021 08:38:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
