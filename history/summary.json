@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 290,
-    "timeDay": 525,
-    "timeWeek": 381,
+    "time": 291,
+    "timeDay": 339,
+    "timeWeek": 362,
     "timeMonth": 329,
-    "timeYear": 290,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2021-02-25": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 214,
-    "timeDay": 404,
-    "timeWeek": 288,
-    "timeMonth": 264,
-    "timeYear": 214,
+    "time": 215,
+    "timeDay": 250,
+    "timeWeek": 280,
+    "timeMonth": 263,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2021-02-25": 13,
       "2021-02-22": 12
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 178,
-    "timeDay": 400,
-    "timeWeek": 250,
+    "time": 179,
+    "timeDay": 216,
+    "timeWeek": 258,
     "timeMonth": 217,
-    "timeYear": 178,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2021-02-25": 12
     }
@@ -66,16 +66,19 @@
     "icon": "https://favicons.githubusercontent.com/interclip.app",
     "slug": "image-proxy",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 261,
-    "timeWeek": 230,
-    "timeMonth": 153,
-    "timeYear": 141,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.91%",
+    "time": 139,
+    "timeDay": 54,
+    "timeWeek": 162,
+    "timeMonth": 149,
+    "timeYear": 139,
+    "dailyMinutesDown": {
+      "2021-02-25": 40,
+      "2021-02-22": 12
+    }
   }
 ]
