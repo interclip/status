@@ -12,6 +12,8 @@ sites:
     url: https://interclip.app/includes/get-api?code=tasks
   - name: Image proxy
     url: https://interclip.app/proxy?url=https://trnck.dev/assets/img/logo.avif
+  - name: File server
+    url: https://files.interclip.app/fee1220bb1.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
