@@ -12,8 +12,8 @@
     "uptimeYear": "99.98%",
     "time": 332,
     "timeDay": 339,
-    "timeWeek": 389,
-    "timeMonth": 395,
+    "timeWeek": 393,
+    "timeMonth": 398,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2021-02-25": 15
@@ -32,8 +32,8 @@
     "uptimeYear": "99.97%",
     "time": 256,
     "timeDay": 250,
-    "timeWeek": 270,
-    "timeMonth": 316,
+    "timeWeek": 268,
+    "timeMonth": 318,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2021-02-25": 13,
@@ -53,8 +53,8 @@
     "uptimeYear": "99.99%",
     "time": 217,
     "timeDay": 143,
-    "timeWeek": 222,
-    "timeMonth": 269,
+    "timeWeek": 221,
+    "timeMonth": 274,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2021-02-25": 12
@@ -73,8 +73,8 @@
     "uptimeYear": "100.00%",
     "time": 165,
     "timeDay": 86,
-    "timeWeek": 167,
-    "timeMonth": 204,
+    "timeWeek": 160,
+    "timeMonth": 205,
     "timeYear": 165,
     "dailyMinutesDown": {}
   },
@@ -83,17 +83,17 @@
     "url": "https://files.interclip.app/fee1220bb1.png",
     "icon": "https://favicons.githubusercontent.com/files.interclip.app",
     "slug": "file-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 955,
-    "timeWeek": 905,
-    "timeMonth": 920,
-    "timeYear": 920,
+    "time": 921,
+    "timeDay": 957,
+    "timeWeek": 899,
+    "timeMonth": 921,
+    "timeYear": 921,
     "dailyMinutesDown": {}
   }
 ]
