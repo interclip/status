@@ -83,17 +83,17 @@
     "url": "https://files.interclip.app/fee1220bb1.png",
     "icon": "https://favicons.githubusercontent.com/files.interclip.app",
     "slug": "file-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 879,
-    "timeWeek": 893,
-    "timeMonth": 917,
-    "timeYear": 917,
+    "time": 919,
+    "timeDay": 891,
+    "timeWeek": 895,
+    "timeMonth": 919,
+    "timeYear": 919,
     "dailyMinutesDown": {}
   }
 ]
