@@ -1,7 +1,7 @@
 url: https://interclip.app/includes/api?url=https://www.linguee.com/english-german/translation/meanbusiness.html
-status: down
-code: 503
-responseTime: 13
-lastUpdated: 2021-04-22T11:53:42.037Z
+status: up
+code: 200
+responseTime: 231
+lastUpdated: 2021-04-22T11:59:50.272Z
 startTime: Thu Feb 18 2021 08:38:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
