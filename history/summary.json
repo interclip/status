@@ -13,7 +13,7 @@
     "time": 324,
     "timeDay": 0,
     "timeWeek": 292,
-    "timeMonth": 371,
+    "timeMonth": 373,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2021-02-25": 15
@@ -33,7 +33,7 @@
     "time": 243,
     "timeDay": 0,
     "timeWeek": 153,
-    "timeMonth": 282,
+    "timeMonth": 284,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2021-02-25": 13,
@@ -74,7 +74,7 @@
     "time": 157,
     "timeDay": 0,
     "timeWeek": 102,
-    "timeMonth": 177,
+    "timeMonth": 178,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -83,17 +83,17 @@
     "url": "https://files.interclip.app/fee1220bb1.png",
     "icon": "https://favicons.githubusercontent.com/files.interclip.app",
     "slug": "file-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 965,
-    "timeDay": 912,
-    "timeWeek": 955,
-    "timeMonth": 965,
-    "timeYear": 965,
+    "time": 966,
+    "timeDay": 914,
+    "timeWeek": 956,
+    "timeMonth": 966,
+    "timeYear": 966,
     "dailyMinutesDown": {}
   }
 ]
